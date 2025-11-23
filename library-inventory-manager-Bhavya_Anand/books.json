@@ -1,0 +1,68 @@
+[
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "isbn": "978-0345391803",
+        "status": "available"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "978-0451524935",
+        "status": "issued"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "978-0141439518",
+        "status": "available"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "978-0061120084",
+        "status": "issued"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "978-0743273565",
+        "status": "available"
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "isbn": "978-0441013593",
+        "status": "available"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "isbn": "978-0062316097",
+        "status": "issued"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isbn": "978-0618053267",
+        "status": "available"
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "isbn": "978-0399590504",
+        "status": "available"
+    },
+    {
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "isbn": "978-0735219090",
+        "status": "issued"
+    },
+    {
+        "title": "B A",
+        "author": "B_A",
+        "isbn": "B11",
+        "status": "available"
+    }
+]
