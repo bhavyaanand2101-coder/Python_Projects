@@ -1,9 +1,12 @@
 📘 Campus Energy Dashboard – Capstone Project
+Made by-
+Bhavya Anand 
+Priyanshu Pandey 
+Aman Kumar 
+Nishtha Sharma 
 
 Course: Programming for Problem Solving using Python
-Student: <Your Name>
-Instructor: <Instructor Name>
-
+Student: <Bhavya Anand, Priyanshu Pandey, Aman Kumar, Nishtha Sharma >
 📌 Project Overview
 
 This project is an end-to-end Energy Consumption Analysis Dashboard for a university campus. It reads multiple building-wise electricity meter readings, cleans and validates the data, performs time-series aggregation, generates visual analytics, and produces an automated executive summary.
